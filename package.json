@@ -34,6 +34,7 @@
   "author": "Benjy Cui",
   "license": "MIT",
   "dependencies": {
+    "antd": "=3.11.6",
     "babel-core": "=6.9.1",
     "babel-preset-es2015": "=6.9.0",
     "babel-preset-react": "=6.5.0",
